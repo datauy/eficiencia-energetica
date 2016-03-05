@@ -1,0 +1,27 @@
+<table>
+  <thead>
+    <tr>
+      <th>Marca</th>
+      <th>Modelo</th>
+      <th>kWh</th>
+      <th>Clase</th>
+      <th>Capacidad (l)</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @products.each do |product| %>
+      <tr>
+        <td><%= product.brand %></td>
+        <td><%= product.model %></td>
+        <td><%= product.kwatts_hour %></td>
+        <td class="efficiency_class_<%= product.efficiency_class %>">
+          <%= product.efficiency_class %>
+        </td>
+        <td><%= product.litres %></td>
+        <td><%= product.description %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
