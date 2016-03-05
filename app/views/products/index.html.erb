@@ -9,6 +9,18 @@
       '200 - 300' => '200,300'
     }, params[:litres]) %>
   </select>
+
+  <select name="litres">
+    <%= options_for_select(@brands, params[:brand]) %>
+  </select>
+
+  <select name="litres">
+    <%= options_for_select(@efficiency_classes, params[:efficiency_class]) %>
+  </select>
+
+  <select name="litres">
+    <%= options_for_select(@number_of_years_list, params[:number_of_years]) %>
+  </select>
   <button type="submit">Filtrar</button>
 </form>
 <% @products.each do |product| %>
