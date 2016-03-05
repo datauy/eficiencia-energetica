@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  brand: 
+  model: 
+  description: 
+  nominal_watts_consumption: 
+  kwatts_hour: 
+  efficiency_class: 
+  litres: 1
+
+two:
+  brand: 
+  model: 
+  description: 
+  nominal_watts_consumption: 
+  kwatts_hour: 
+  efficiency_class: 
+  litres: 1
