@@ -1,0 +1,300 @@
+Marca,Modelo,Descripción,Tensión Nominal (V),Potencia Nominal (W),Clase de eficiencia energética,Capacidad Nominal (l),Energía Mensual (kWh),Tiempo de Calentamiento (hs:min),Presion Nominal (MPa),Temperatura Media del Agua Extraida (ºC),Empresa,Nro. Aprobación
+Rheem,EXPOTEPC155UR,Calentador electrico de acumulacion,230,1840,B,155,"307,4",3:37,"0,6",49,Barraca Europa S.A.,EE-CAE-000096
+Rheem,EXPOTEPC125UR,Calentador electrico de acumulacion,230,1840,B,125,"264,5",3:58,"0,6","61,3",Barraca Europa S.A.,EE-CAE-000096
+Rheem,EXPOTECC085UR,Calentador electrico de acumulacion,230,1840,B,85,"173,4",2:15,"0,6","54,8",Barraca Europa S.A.,EE-CAE-000096
+Rheem,EXPOTECC055UR,Calentador electrico de acumulacion,230,1840,B,55,"120,5",1:20,"0,6",53,Barraca Europa S.A.,EE-CAE-000096
+Rheem,EXPOTECC125UR,Calentador electrico de acumulacion,230,1840,A,125,"243,9",3:33,"0,6","57,9",Barraca Europa S.A.,EE-CAE-000096
+UNIVERSAL,Galaxia40,Calentadores de agua,230,1500,B,40,"83,74",1:20,"0,8","52,7",Barraca Europa S.A.,EE-CAE-000095
+HYUNDAI,HYGX40,Calentadores de agua,230,1500,B,40,"83,74",1:20,"0,8","52,7",Barraca Europa S.A.,EE-CAE-000094
+UNIVERSAL,Galaxia50,Calentadores de agua,230,1500,A,47,"92,75",1:36,"0,8","56,7",Barraca Europa S.A.,EE-CAE-000093
+HYUNDAI,HYGX50,Calentadores de agua,230,1500,A,47,"92,75",1:36,"0,8","56,7",Barraca Europa S.A.,EE-CAE-000092
+UNIVERSAL,Tempo30,Calentadores de agua,230,1500,B,28,"58,33",0:53,"0,8","57,1",Barraca Europa S.A.,EE-CAE-000091
+HYUNDAI,HYQUA30,Calentadores de agua,230,1500,B,28,"58,33",0:53,"0,8","57,1",Barraca Europa S.A.,EE-CAE-000090
+UNIVERSAL,Galaxia60,Calentadores de agua,230,1500,A,60,"117,51",1:52,"0,8","51,3",Barraca Europa S.A.,EE-CAE-000089
+HYUNDAI,HYGX60,Calentadores de agua,230,1500,A,60,"117,51",1:52,"0,8","51,3",Barraca Europa S.A.,EE-CAE-000088
+HYUNDAI,HYGX100,Calentadores de agua,230,2000,A,96,"181,81",2:27,"0,8","57,2",Barraca Europa S.A.,EE-CAE-000087
+BEUSA,BEGX100,Calentadores de agua,230,2000,A,96,"181,81",2:27,"0,8","57,2",Barraca Europa S.A.,EE-CAE-000086
+UNIVERSAL,Galaxia 100,Calentadores de agua,230,2000,A,96,"181,81",2:27,"0,8","57,2",Barraca Europa S.A.,EE-CAE-000085
+BEUSA,BEGX40,Calentadores de agua,230,1500,B,40,"83,74",1:20,"0,8","52,7",Barraca Europa S.A.,EE-CAE-000084
+BEUSA,BEQUA30,Calentadores de agua,230,1500,B,28,"58,33",0:53,"0,8","57,1",Barraca Europa S.A.,EE-CAE-000083
+BEUSA,BEGX50,Calentadores de agua,230,1500,A,47,"92,75",1:36,"0,8","56,7",Barraca Europa S.A.,EE-CAE-000082
+BEUSA,BEGX60,Calentadores de agua,230,1500,A,60,"117,51",1:52,"0,8","51,3",Barraca Europa S.A.,EE-CAE-000081
+UNIVERSAL,Galaxia80,Calentadores de agua,230,1800,A,75,"143,58",2:01,"0,8","55,9",Barraca Europa S.A.,EE-CAE-000080
+HYUNDAI,HYGX80,Calentadores de agua,230,1800,A,75,"143,58",2:01,"0,8","55,9",Barraca Europa S.A.,EE-CAE-000079
+BEUSA,BEGX80,Calentadores de agua,230,1800,A,75,"143,58",2:01,"0,8","55,9",Barraca Europa S.A.,EE-CAE-000078
+UNIVERSAL,GALAXIA120,Calentadores de agua,230,2000,A,115,"211,97","2,56","0,8","59,4",Barraca Europa S.A.,EE-CAE-000077
+HYUNDAI,HYGX120,Calentadores de agua,230,2000,A,115,"211,97","2,56","0,8","59,4",Barraca Europa S.A.,EE-CAE-000076
+BEUSA,BEGX120,Calentadores de agua,230,2000,A,115,"211,97","2,56","0,8","59,4",Barraca Europa S.A.,EE-CAE-000075
+ARISTON,PRO ECO 50 V 1.8 KPL,calentador electrico de acumulacion,230,1800,B,49,"99,4",1:20,"0,8","54,7",RIDEL S.A,EE-CAE-000074
+Candy,TR100,Termotanque,230,2000,A,92,"191,8",2:29,"0,8","50,9",Nobelcar SA,EE-CAE-000073
+ARISTON,TI SHAPE 30 ORD,calentado de agua de acumulación,230,2000,B,30,63,0:42,"0,8",58,RIDEL S.A,EE-CAE-000072
+ARISTON,TI SHAPE 15 ORD,calentdor de agua de acumulación,220,2000,D,15,"41,5",0:21,"0,8","54,7",RIDEL S.A,EE-CAE-000071
+Atlantic,VM 100 D400-1-M,Calentadores de agua de acumulación,230,1500,A,95,"180,31",3:11,"0,8","58,5",GELBRING S.A.,EE-CAE-000070
+Atlantic,VM 080 D400-1-M,Calentadores de agua de acumulación,230,1500,A,75,"140,32",2:40,"0,8","56,1",GELBRING S.A.,EE-CAE-000070
+Atlantic,VM 050 D400-1-M,Calentadores de agua de acumulación,230,1500,A,47,"90,13",1:34,"0,8","55,2",GELBRING S.A.,EE-CAE-000070
+Atlantic,VM 040 D400-1-M,Calentadores de agua de acumulación,230,1200,A,36,"71,36",1:21,"0,8",54,GELBRING S.A.,EE-CAE-000070
+Atlantic,VM 030 D400-1-M,Calentadores de agua de acumulación,230,1200,B,28,"55,29",1:03,"0,8","47,3",GELBRING S.A.,EE-CAE-000070
+Rheem,EXPOTEPC155UR,Calentador electrico de acumulacion,230,1840,B,155,"307,4",3:37,"0,6",49,FRIMEL S.A.,EE-CAE-000069
+Rheem,EXPOTEPC125UR,Calentador electrico de acumulacion,230,1840,B,125,"264,5",3:58,"0,6","61,3",FRIMEL S.A.,EE-CAE-000069
+Rheem,EXPOTECC085UR,Calentador electrico de acumulacion,230,1840,B,85,"173,4",2:15,"0,6","54,8",FRIMEL S.A.,EE-CAE-000069
+Rheem,EXPOTECC055UR,Calentador electrico de acumulacion,230,1840,B,55,"120,5",1:20,"0,6",53,FRIMEL S.A.,EE-CAE-000069
+Rheem,EXPOTECC125UR,Calentador electrico de acumulacion,230,1840,A,125,"243,9",3:33,"0,6","57,9",FRIMEL S.A.,EE-CAE-000069
+Candy,TR80,Calentador de agua de acumulacion,230,2000,A,80,"151,2",2:34,"0,8",60,NOBELCAR S.A.,EE-CAE-000068
+Candy,TR50,Calentador de agua de acumulacion,230,1500,A,50,90,1:31,"0,8","60,3",NOBELCAR S.A.,EE-CAE-000068
+Candy,TR30,Calentador de agua de acumulacion,230,1200,A,30,57,0:57,"0,8","54,1",NOBELCAR S.A.,EE-CAE-000068
+Candy,TR60,Calentador de agua,230,1500,A,56,"105,2",1:38,"0,8","57,3",Nobelcar SA,EE-CAE-000066
+THOMPSON,P 60 A,calentador de agua de acumulación,230,1500,A,60,114,2:17,"0,8",58,James S.A.,EE-CAE-000065
+Atlantic,WH 100L ASA,Calentador de agua,230,1500,A,95,"180,31",3:11,"0,8","58,5",GELBRING S.A.,EE-CAE-000064
+Atlantic,WH 80L ASA,Calentador de agua,230,1500,A,75,"140,32",2:40,"0,8","56,1",GELBRING S.A.,EE-CAE-000064
+Atlantic,WH 50L ASA,Calentador de agua,230,1500,A,47,"90,13",1:34,"0,8","55,2",GELBRING S.A.,EE-CAE-000064
+Atlantic,WH 40L ASA,Calentador de agua,230,1200,A,36,"71,36",1:21,"0,8",54,GELBRING S.A.,EE-CAE-000064
+Atlantic,WH 30L ASA,Calentador de agua,230,1200,B,28,"55,29",1:03,"0,8","47,3",GELBRING S.A.,EE-CAE-000064
+Enxuta,tenx80,Calentador de agua,230,1500,A,75,"140,32",2:40,"0,8","56,1",GELBRING S.A.,EE-CAE-000063
+Enxuta,tenx50,Calentador de agua,230,1500,A,47,"90,13",1:34,"0,8","55,2",GELBRING S.A.,EE-CAE-000063
+Enxuta,tenx40,Calentador de agua,230,1200,A,36,"71,36",1:21,"0,8",54,GELBRING S.A.,EE-CAE-000063
+Enxuta,tenx30,Calentador de agua,230,1200,B,28,"55,29",1:03,"0,8","47,3",GELBRING S.A.,EE-CAE-000063
+Beusa,BECE 140,Calentadores de agua,230,1500,A,140,240,4:40,"0,8","56,8",Barraca Europa S.A.,EE-CAE-000062
+ARISTON,PRO R 100V,Calentador de agua de acumulación,230,1800,A,95,"176,7",2:41,"0,8","58,6",RIDEL S.A,EE-CAE-000061
+ARISTON,PRO R 80V,Calentador de agua de acumulación,230,1800,A,75,"143,3",2:07,"0,8","56,3",RIDEL S.A,EE-CAE-000061
+ARISTON,PRO R 50V,Calentador de agua de acumulación,230,1800,B,49,"99,4",1:24,"0,8","57,5",RIDEL S.A,EE-CAE-000061
+ZERO WATT,TA-60L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 60 Litros,230,1500,A,60,"117,4",1:27,"0,6","58,9",RIVOMARK,EE-CAE-000057
+BRONX,TA-60L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 60 Litros,230,1500,A,60,"117,4",1:27,"0,6","58,9",RIVOMARK,EE-CAE-000056
+STEIGLEDER,TA-60L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 60 Litros,230,1500,A,60,"117,4",1:27,"0,6","58,9",RIVOMARK,EE-CAE-000055
+ROTEL,TA-60L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 60 Litros,230,1500,A,60,"117,4",1:27,"0,6","58,9",RIVOMARK,EE-CAE-000054
+JOYA,TA-60L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 60 Litros,230,1500,A,60,"117,4",1:27,"0,6","58,9",RIVOMARK,EE-CAE-000053
+SIRIUM,TA-60L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 60 Litros,230,1500,A,60,"117,4",1:27,"0,6","58,9",RIVOMARK,EE-CAE-000052
+ATLANTIC,5 modelos,EXCEPCIÓN para ensayo,-,-,-,-,-,-,-,-,GELBRING S.A.,EE-CAE-000045
+ENXUTA,WH 40VM ENXUTA (TENX 40L),EXCEPCIÓN para ensayo,-,-,-,-,-,-,-,-,GELBRING S.A.,EE-CAE-000044
+Beusa,BECE100,Calentador electrico de acumulacion,220,1500,B,100,208,3:10,"0,8","54,2",LYVTYLER SA,EE-CAE-000042
+ARISTON,300 STAB,calentador de agua de acumulación,230,3000,A,300,503,5:07,"0,6","62,8",RIDEL S.A.,EE-CAE-000041
+RHEEM,EXPOTEPC155UR,Calentador de agua elĂ©ctrico de acumulaciĂłn,230,1840,B,155,"307,4",3:37,"0,6",49,TECNOSOLAR S.A.,EE-CAE-000040
+RHEEM,EXPOTEPC125UR,Calentador de agua elĂ©ctrico de acumulaciĂłn,230,1840,B,125,"264,5",3:58,"0,6","61,3",TECNOSOLAR S.A.,EE-CAE-000040
+RHEEM,EXPOTECC085UR,Calentador de agua elĂ©ctrico de acumulaciĂłn,230,1840,B,85,"173,4",2:15,"0,6","54,8",TECNOSOLAR S.A.,EE-CAE-000040
+RHEEM,EXPOTECC055UR,Calentador de agua elĂ©ctrico de acumulaciĂłn,230,1840,B,55,"120,5",1:20,"0,6",53,TECNOSOLAR S.A.,EE-CAE-000040
+RHEEM,EXPOTECC125UR,Calentador de agua elĂ©ctrico de acumulaciĂłn,230,1840,A,125,"243,9",3:33,"0,6","57,9",TECNOSOLAR S.A.,EE-CAE-000040
+ARISTON,PRO R 150 V 1.8 K PL,Calentador de agua de acumulación,230,1800,B,150,"308,5",4:25,"0,8","60,8",Ridel S.A,EE-CAE-000039
+ARISTON,PRO ECO 80 H 1.8 K PL,Calentador de agua de acumulación,230,1800,A,75,"151,4",1:33,"0,8","53,3",Ridel S.A,EE-CAE-000038
+JAMES,P 110 C,Calentador de agua de acumulación,230,1500,A,110,196,3:23,"0,8",57,James S.A.,EE-CAE-000037
+JAMES,P 80 C,Calentador de agua de acumulación,230,1500,A,80,"147,3",2:30,"0,8",56,James S.A.,EE-CAE-000037
+JAMES,P 60 C,Calentador de agua de acumulación,230,1500,A,60,114,1:45,"0,8",52,James S.A.,EE-CAE-000037
+JAMES,P 40 C,Calentador de agua de acumulación,230,1500,A,40,"76,6",1:12,"0,8",52,James S.A.,EE-CAE-000037
+JAMES,P 30 C,Calentador de agua de acumulación,230,1500,A,30,"58,2",0:43,"0,8",49,James S.A.,EE-CAE-000037
+JAMES,P 20 C,Calentador de agua de acumulación,230,1500,A,20,"39,5",0:27,"0,8",46,James S.A.,EE-CAE-000037
+ATLANTIC,VM 120 N4,calentador electrico de acumulacion,230,2000,A,115,"190,2",2:58,"0,6","60,1",PUNKTAL,EE-CAE-000035
+ARISTON,xxx,xxx,-,-,-,-,-,-,-,-,RIDEL,EE-CAE-000034
+ATLANTIC,VM 100 N4,calentador electrico de acumulacion,230,1500,A,95,"178,89",3:11,"0,8","59,5",Punktal S.A.,EE-CAE-000033
+ATLANTIC,VM 50 N4,calentador electrico de acumulacion,230,1500,B,47,92,1:31,"0,8","55,9",Punktal S.A.,EE-CAE-000033
+ATLANTIC,VM 30 N4,calentador electrico de acumulacion,230,1200,B,28,"54,8",0:58,"0,8","48,7",Punktal S.A.,EE-CAE-000033
+ATLANTIC,VM 80 N4,calentador electrico de acumulacion,230,1500,A,75,142,2:29,"0,8","58,1",Punktal S.A.,EE-CAE-000033
+ORION,45 L,Calentador de agua eléctrico de acumulación de uso doméstico,220,1000,A,45,88,2:14,"0,65",58,Calefones Orion,EE-CAE-000058
+THOMPSON,P 70 A,calentador electrico de acumulacion,230,1500,A,70,133,2:05,"0,8",55,James S.A.,EE-CAE-000029
+THOMPSON,P 50 A,calentador electrico de acumulacion,230,1500,A,50,95,1:34,"0,8",53,James S.A.,EE-CAE-000029
+THOMPSON,P 30 A,calentador electrico de acumulacion,230,1500,A,30,57,0:47,"0,8",48,James S.A.,EE-CAE-000029
+ATLANTIC,VM120N4,calentador de agua de acumulacion,230,2000,A,115,213,2:54,"0,8","60,3",Gobilan S.A.,EE-CAE-000028
+KROSER,TA – 45 L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 45 Litros,230,1500,A,45,"82,3",1:23,"0,6","59,8",RIVOMARK S.A.,EE-CAE-000026
+ZERO WATT,TA – 45 L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 45 Litros,230,1500,A,45,"82,3",1:23,"0,6","59,8",RIVOMARK S.A.,EE-CAE-000026
+BRONX,TA – 45 L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 45 Litros,230,1500,A,45,"82,3",1:23,"0,6","59,8",RIVOMARK S.A.,EE-CAE-000026
+STEIGLEDER,TA – 45 L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 45 Litros,230,1500,A,45,"82,3",1:23,"0,6","59,8",RIVOMARK S.A.,EE-CAE-000026
+ROTEL,TA – 45 L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 45 Litros,230,1500,A,45,"82,3",1:23,"0,6","59,8",RIVOMARK S.A.,EE-CAE-000026
+JOYA,TA – 45 L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 45 Litros,230,1500,A,45,"82,3",1:23,"0,6","59,8",RIVOMARK S.A.,EE-CAE-000026
+BEUSA,TA – 45 L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 45 Litros,230,1500,A,45,"82,3",1:23,"0,6","59,8",RIVOMARK S.A.,EE-CAE-000026
+TEM,TA – 45 L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 45 Litros,230,1500,A,45,"82,3",1:23,"0,6","59,8",RIVOMARK S.A.,EE-CAE-000026
+QUEEN,TA – 45 L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 45 Litros,230,1500,A,45,"82,3",1:23,"0,6","59,8",RIVOMARK S.A.,EE-CAE-000026
+SIRIUM,TA – 45 L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 45 Litros,230,1500,A,45,"82,3",1:23,"0,6","59,8",RIVOMARK S.A.,EE-CAE-000026
+ATLANTIC,VM 80 N4,Calentador de agua eléctrico de acumulación de uso doméstico,230,1500,A,75,141,2:23,"0,8","56,4",GOBILAN S.A.,EE-CAE-000023
+FAGOR,M 200I,Calentador de agua eléctrico de acumulación de uso doméstico,230,1500,A,200,351,7:11,"0,6",59,cotilsa,EE-CAE-000022
+ATLANTIC,VM 100 N4,Calentador de agua eléctrico de acumulación de uso doméstico,230,1500,A,95,174,3:13,"0,8","59,5",GOBILAN S.A.,EE-CAE-000021
+ATLANTIC,VM 50 N4,Calentador de agua eléctrico de acumulación de uso doméstico,230,1500,A,47,"89,5",1:33,"0,8","56,2",GOBILAN S.A.,EE-CAE-000020
+JAMES,P 20 A,calentador electrico de acumulacion,230,1500,A,20,40,0:29,"0,8",48,James S.A.,EE-CAE-000019
+Queen,TQ100A,Calentador de agua de acumulacion,220,1500,A,91,177,2:57,"0,8","55,6",GELBRING SA,EE-CAE-000018
+Queen,TQ80A,Calentador de agua de acumulacion,220,1500,A,73,141,2:21,"0,8","53,8",GELBRING SA,EE-CAE-000018
+Queen,TQ60A,Calentador de agua de acumulacion,220,1500,A,53,105,1:39,"0,8","53,9",GELBRING SA,EE-CAE-000018
+Queen,TQ40A,Calentador de agua de acumulacion,220,1500,B,"37,2",82,1:03,"0,8","63,6",GELBRING SA,EE-CAE-000018
+Queen,TQ30A,Calentador de agua de acumulacion,220,1500,B,30,63,0:46,"0,8",49,GELBRING SA,EE-CAE-000018
+ATLANTIC,VM 30 N4,Calentador de agua eléctrico de acumulación de uso doméstico,230,1200,B,28,"56,2",0:59,"0,8","48,2",GOBILAN S.A.,EE-CAE-000017
+ARISTON,TI 150 L,Calentador de agua de acumulación,230,2200,A,150,248,3:37,"0,8",62,RIDEL,EE-CAE-000016
+KROSER,TA – 30 L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 30 Litros,230,1500,A,30,58,0:43,"0,6","49,4",RIVOMARK S.A.,EE-CAE-000014
+ZERO WATT,TA – 30 L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 30 Litros,230,1500,A,30,58,0:43,"0,6","49,4",RIVOMARK S.A.,EE-CAE-000014
+BRONX,TA – 30 L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 30 Litros,230,1500,A,30,58,0:43,"0,6","49,4",RIVOMARK S.A.,EE-CAE-000014
+STEIGLEDER,TA – 30 L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 30 Litros,230,1500,A,30,58,0:43,"0,6","49,4",RIVOMARK S.A.,EE-CAE-000014
+ROTEL,TA – 30 L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 30 Litros,230,1500,A,30,58,0:43,"0,6","49,4",RIVOMARK S.A.,EE-CAE-000014
+JOYA,TA – 30 L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 30 Litros,230,1500,A,30,58,0:43,"0,6","49,4",RIVOMARK S.A.,EE-CAE-000014
+BEUSA,TA – 30 L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 30 Litros,230,1500,A,30,58,0:43,"0,6","49,4",RIVOMARK S.A.,EE-CAE-000014
+TEM,TA – 30 L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 30 Litros,230,1500,A,30,58,0:43,"0,6","49,4",RIVOMARK S.A.,EE-CAE-000014
+QUEEN,TA – 30 L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 30 Litros,230,1500,A,30,58,0:43,"0,6","49,4",RIVOMARK S.A.,EE-CAE-000014
+SIRIUM,TA – 30 L,Calentador cerrado VERTICAL ACERO – POLIURETANO de 30 Litros,230,1500,A,30,58,0:43,"0,6","49,4",RIVOMARK S.A.,EE-CAE-000014
+ORION,110 L,calentador de agua de acumulación,220,2000,A,110,214,2:52,"0,65",60,ElectrodomÃ©sticos Orion Ltda.,EE-CAE-000013
+ORION,85 L,calentador de agua de acumulación,220,2000,B,85,175,2:13,"0,65",58,ElectrodomÃ©sticos Orion Ltda.,EE-CAE-000013
+ORION,60 L,calentador de agua de acumulación,220,1500,B,60,126,1:57,"0,65",59,ElectrodomÃ©sticos Orion Ltda.,EE-CAE-000013
+ORION,30 L,calentador de agua de acumulación,220,1000,B,30,61,1:21,"0,65",56,ElectrodomÃ©sticos Orion Ltda.,EE-CAE-000013
+ORION,20 L,calentador de agua de acumulación,220,800,C,20,45,1:07,"0,65",56,ElectrodomÃ©sticos Orion Ltda.,EE-CAE-000013
+ORION,10 L,calentador de agua de acumulación,220,600,E,10,30,0:44,"0,65",56,ElectrodomÃ©sticos Orion Ltda.,EE-CAE-000013
+COLLERATI,60 L,Calentador de agua eléctrico de acumulación de uso doméstico,230,1360,B,60,128,2:27,"0,8","62,8",Collerati Srl.,EE-CAE-000012
+COLLERATI,50 L,Calentador de agua eléctrico de acumulación de uso doméstico,230,1360,B,50,111,2:03,"0,8",61,Collerati Srl.,EE-CAE-000012
+COLLERATI,30 L,Calentador de agua eléctrico de acumulación de uso doméstico,230,1360,D,30,77,1:02,"0,8",54,Collerati Srl.,EE-CAE-000012
+COLLERATI,11 L,Calentador de agua eléctrico de acumulación de uso doméstico,230,1360,F,11,42,0:25,"0,8",53,Collerati Srl.,EE-CAE-000012
+FAGOR,M 75 N3,calentador de agua de acumulación,230,1600,A,75,135,2:04,"0,9",55,COTIL S.A.,EE-CAE-000011
+FAGOR,M 75 LN,calentador de agua de acumulación,230,1600,A,75,141,2:08,"0,9",58,COTIL S.A.,EE-CAE-000011
+FAGOR,SLIM 100 ECO,calentador de agua de acumulación,230,1600,A,100,186,2:56,"0,9",56,COTIL S.A.,EE-CAE-000011
+FAGOR,SLIM 75 ECO,calentador de agua de acumulación,230,1600,A,75,141,2:08,"0,9",58,COTIL S.A.,EE-CAE-000011
+FAGOR,CB 150I,calentador de agua de acumulación,230,2400,A,150,255,3:17,"0,6",60,COTIL S.A.,EE-CAE-000011
+FAGOR,CB 100I,calentador de agua de acumulación,230,1800,A,100,174,2:47,"0,6",56,COTIL S.A.,EE-CAE-000011
+FAGOR,M 200N3,calentador de agua de acumulación,230,2400,A,200,343,4:25,"0,9",60,COTIL S.A.,EE-CAE-000011
+FAGOR,M 150I,calentador de agua de acumulación,230,1500,A,150,261,5:26,"0,6",42,COTIL S.A.,EE-CAE-000011
+FAGOR,M 100I,calentador de agua de acumulación,230,1500,A,100,181,3:31,"0,6",57,COTIL S.A.,EE-CAE-000011
+FAGOR,M 75I,calentador de agua de acumulación,230,1500,A,75,137,2:34,"0,6",56,COTIL S.A.,EE-CAE-000011
+FAGOR,M 50I,calentador de agua de acumulación,230,1500,A,50,95,1:45,"0,6",58,COTIL S.A.,EE-CAE-000011
+FAGOR,M 30I,calentador de agua de acumulación,230,1500,B,30,"63,5",1:06,"0,6",49,COTIL S.A.,EE-CAE-000011
+KROSER,TCP – 70 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 70 Litros,230,1500,A,70,134,2:18,"0,6","54,5",RIVOMARK S.A.,EE-CAE-000009
+ZERO WATT,TCP – 70 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 70 Litros,230,1500,A,70,134,2:18,"0,6","54,5",RIVOMARK S.A.,EE-CAE-000009
+BRONX,TCP – 70 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 70 Litros,230,1500,A,70,134,2:18,"0,6","54,5",RIVOMARK S.A.,EE-CAE-000009
+STEIGLEDER,TCP – 70 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 70 Litros,230,1500,A,70,134,2:18,"0,6","54,5",RIVOMARK S.A.,EE-CAE-000009
+ROTEL,TCP – 70 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 70 Litros,230,1500,A,70,134,2:18,"0,6","54,5",RIVOMARK S.A.,EE-CAE-000009
+JOYA,TCP – 70 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 70 Litros,230,1500,A,70,134,2:18,"0,6","54,5",RIVOMARK S.A.,EE-CAE-000009
+BEUSA,TCP – 70 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 70 Litros,230,1500,A,70,134,2:18,"0,6","54,5",RIVOMARK S.A.,EE-CAE-000009
+TEM,TCP – 70 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 70 Litros,230,1500,A,70,134,2:18,"0,6","54,5",RIVOMARK S.A.,EE-CAE-000009
+QUEEN,TCP – 70 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 70 Litros,230,1500,A,70,134,2:18,"0,6","54,5",RIVOMARK S.A.,EE-CAE-000009
+SIRIUM,TCP – 70 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 70 Litros,230,1500,A,70,134,2:18,"0,6","54,5",RIVOMARK S.A.,EE-CAE-000009
+KROSER,TCP – 60 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 60 Litros,230,1500,A,60,114,1:57,"0,6",56,RIVOMARK S.A.,EE-CAE-000009
+ZERO WATT,TCP – 60 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 60 Litros,230,1500,A,60,114,1:57,"0,6",56,RIVOMARK S.A.,EE-CAE-000009
+BRONX,TCP – 60 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 60 Litros,230,1500,A,60,114,1:57,"0,6",56,RIVOMARK S.A.,EE-CAE-000009
+STEIGLEDER,TCP – 60 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 60 Litros,230,1500,A,60,114,1:57,"0,6",56,RIVOMARK S.A.,EE-CAE-000009
+ROTEL,TCP – 60 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 60 Litros,230,1500,A,60,114,1:57,"0,6",56,RIVOMARK S.A.,EE-CAE-000009
+JOYA,TCP – 60 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 60 Litros,230,1500,A,60,114,1:57,"0,6",56,RIVOMARK S.A.,EE-CAE-000009
+BEUSA,TCP – 60 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 60 Litros,230,1500,A,60,114,1:57,"0,6",56,RIVOMARK S.A.,EE-CAE-000009
+TEM,TCP – 60 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 60 Litros,230,1500,A,60,114,1:57,"0,6",56,RIVOMARK S.A.,EE-CAE-000009
+QUEEN,TCP – 60 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 60 Litros,230,1500,A,60,114,1:57,"0,6",56,RIVOMARK S.A.,EE-CAE-000009
+SIRIUM,TCP – 60 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 60 Litros,230,1500,A,60,114,1:57,"0,6",56,RIVOMARK S.A.,EE-CAE-000009
+KROSER,TCP – 50 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 50 Litros,230,1500,A,50,92,1:38,"0,6","59,8",RIVOMARK S.A.,EE-CAE-000009
+ZERO WATT,TCP – 50 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 50 Litros,230,1500,A,50,92,1:38,"0,6","59,8",RIVOMARK S.A.,EE-CAE-000009
+BRONX,TCP – 50 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 50 Litros,230,1500,A,50,92,1:38,"0,6","59,8",RIVOMARK S.A.,EE-CAE-000009
+STEIGLEDER,TCP – 50 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 50 Litros,230,1500,A,50,92,1:38,"0,6","59,8",RIVOMARK S.A.,EE-CAE-000009
+ROTEL,TCP – 50 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 50 Litros,230,1500,A,50,92,1:38,"0,6","59,8",RIVOMARK S.A.,EE-CAE-000009
+JOYA,TCP – 50 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 50 Litros,230,1500,A,50,92,1:38,"0,6","59,8",RIVOMARK S.A.,EE-CAE-000009
+BEUSA,TCP – 50 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 50 Litros,230,1500,A,50,92,1:38,"0,6","59,8",RIVOMARK S.A.,EE-CAE-000009
+TEM,TCP – 50 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 50 Litros,230,1500,A,50,92,1:38,"0,6","59,8",RIVOMARK S.A.,EE-CAE-000009
+QUEEN,TCP – 50 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 50 Litros,230,1500,A,50,92,1:38,"0,6","59,8",RIVOMARK S.A.,EE-CAE-000009
+SIRIUM,TCP – 50 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 50 Litros,230,1500,A,50,92,1:38,"0,6","59,8",RIVOMARK S.A.,EE-CAE-000009
+KROSER,TCP – 40 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 40 Litros,230,1500,A,40,"74,41",1:16,"0,6","66,4",RIVOMARK S.A.,EE-CAE-000009
+ZERO WATT,TCP – 40 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 40 Litros,230,1500,A,40,"74,41",1:16,"0,6","66,4",RIVOMARK S.A.,EE-CAE-000009
+BRONX,TCP – 40 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 40 Litros,230,1500,A,40,"74,41",1:16,"0,6","66,4",RIVOMARK S.A.,EE-CAE-000009
+STEIGLEDER,TCP – 40 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 40 Litros,230,1500,A,40,"74,41",1:16,"0,6","66,4",RIVOMARK S.A.,EE-CAE-000009
+ROTEL,TCP – 40 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 40 Litros,230,1500,A,40,"74,41",1:16,"0,6","66,4",RIVOMARK S.A.,EE-CAE-000009
+JOYA,TCP – 40 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 40 Litros,230,1500,A,40,"74,41",1:16,"0,6","66,4",RIVOMARK S.A.,EE-CAE-000009
+BEUSA,TCP – 40 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 40 Litros,230,1500,A,40,"74,41",1:16,"0,6","66,4",RIVOMARK S.A.,EE-CAE-000009
+TEM,TCP – 40 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 40 Litros,230,1500,A,40,"74,41",1:16,"0,6","66,4",RIVOMARK S.A.,EE-CAE-000009
+QUEEN,TCP – 40 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 40 Litros,230,1500,A,40,"74,41",1:16,"0,6","66,4",RIVOMARK S.A.,EE-CAE-000009
+SIRIUM,TCP – 40 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 40 Litros,230,1500,A,40,"74,41",1:16,"0,6","66,4",RIVOMARK S.A.,EE-CAE-000009
+KROSER,TCP – 30 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 30 Litros,230,1500,A,30,"57,49",0:54,"0,6","61,8",RIVOMARK S.A.,EE-CAE-000009
+ZERO WATT,TCP – 30 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 30 Litros,230,1500,A,30,"57,49",0:54,"0,6","61,8",RIVOMARK S.A.,EE-CAE-000009
+BRONX,TCP – 30 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 30 Litros,230,1500,A,30,"57,49",0:54,"0,6","61,8",RIVOMARK S.A.,EE-CAE-000009
+STEIGLEDER,TCP – 30 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 30 Litros,230,1500,A,30,"57,49",0:54,"0,6","61,8",RIVOMARK S.A.,EE-CAE-000009
+ROTEL,TCP – 30 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 30 Litros,230,1500,A,30,"57,49",0:54,"0,6","61,8",RIVOMARK S.A.,EE-CAE-000009
+JOYA,TCP – 30 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 30 Litros,230,1500,A,30,"57,49",0:54,"0,6","61,8",RIVOMARK S.A.,EE-CAE-000009
+BEUSA,TCP – 30 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 30 Litros,230,1500,A,30,"57,49",0:54,"0,6","61,8",RIVOMARK S.A.,EE-CAE-000009
+TEM,TCP – 30 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 30 Litros,230,1500,A,30,"57,49",0:54,"0,6","61,8",RIVOMARK S.A.,EE-CAE-000009
+QUEEN,TCP – 30 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 30 Litros,230,1500,A,30,"57,49",0:54,"0,6","61,8",RIVOMARK S.A.,EE-CAE-000009
+SIRIUM,TCP – 30 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 30 Litros,230,1500,A,30,"57,49",0:54,"0,6","61,8",RIVOMARK S.A.,EE-CAE-000009
+KROSER,TCP – 20 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 20 Litros,230,1500,A,20,"39,61",0:33,"0,6","61,8",RIVOMARK S.A.,EE-CAE-000009
+ZERO WATT,TCP – 20 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 20 Litros,230,1500,A,20,"39,61",0:33,"0,6","61,8",RIVOMARK S.A.,EE-CAE-000009
+BRONX,TCP – 20 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 20 Litros,230,1500,A,20,"39,61",0:33,"0,6","61,8",RIVOMARK S.A.,EE-CAE-000009
+STEIGLEDER,TCP – 20 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 20 Litros,230,1500,A,20,"39,61",0:33,"0,6","61,8",RIVOMARK S.A.,EE-CAE-000009
+ROTEL,TCP – 20 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 20 Litros,230,1500,A,20,"39,61",0:33,"0,6","61,8",RIVOMARK S.A.,EE-CAE-000009
+JOYA,TCP – 20 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 20 Litros,230,1500,A,20,"39,61",0:33,"0,6","61,8",RIVOMARK S.A.,EE-CAE-000009
+BEUSA,TCP – 20 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 20 Litros,230,1500,A,20,"39,61",0:33,"0,6","61,8",RIVOMARK S.A.,EE-CAE-000009
+TEM,TCP – 20 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 20 Litros,230,1500,A,20,"39,61",0:33,"0,6","61,8",RIVOMARK S.A.,EE-CAE-000009
+QUEEN,TCP – 20 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 20 Litros,230,1500,A,20,"39,61",0:33,"0,6","61,8",RIVOMARK S.A.,EE-CAE-000009
+SIRIUM,TCP – 20 L,Calentador cerrado VERTICAL COBRE – POLIURETANO de 20 Litros,230,1500,A,20,"39,61",0:33,"0,6","61,8",RIVOMARK S.A.,EE-CAE-000009
+KROSER,RC – 50 L,Calentador cerrado VERTICAL COBRE de 50 Litros,230,1200,B,50,106,2:10,"0,6",64,Rivomark S.A.,EE-CAE-000008
+ZERO WATT,RC – 50 L,Calentador cerrado VERTICAL COBRE de 50 Litros,230,1200,B,50,106,2:10,"0,6",64,Rivomark S.A.,EE-CAE-000008
+BRONX,RC – 50 L,Calentador cerrado VERTICAL COBRE de 50 Litros,230,1200,B,50,106,2:10,"0,6",64,Rivomark S.A.,EE-CAE-000008
+STEIGLEDER,RC – 50 L,Calentador cerrado VERTICAL COBRE de 50 Litros,230,1200,B,50,106,2:10,"0,6",64,Rivomark S.A.,EE-CAE-000008
+ROTEL,RC – 50 L,Calentador cerrado VERTICAL COBRE de 50 Litros,230,1200,B,50,106,2:10,"0,6",64,Rivomark S.A.,EE-CAE-000008
+JOYA,RC – 50 L,Calentador cerrado VERTICAL COBRE de 50 Litros,230,1200,B,50,106,2:10,"0,6",64,Rivomark S.A.,EE-CAE-000008
+BEUSA,RC – 50 L,Calentador cerrado VERTICAL COBRE de 50 Litros,230,1200,B,50,106,2:10,"0,6",64,Rivomark S.A.,EE-CAE-000008
+TEM,RC – 50 L,Calentador cerrado VERTICAL COBRE de 50 Litros,230,1200,B,50,106,2:10,"0,6",64,Rivomark S.A.,EE-CAE-000008
+QUEEN,RC – 50 L,Calentador cerrado VERTICAL COBRE de 50 Litros,230,1200,B,50,106,2:10,"0,6",64,Rivomark S.A.,EE-CAE-000008
+SIRIUM,RC – 50 L,Calentador cerrado VERTICAL COBRE de 50 Litros,230,1200,B,50,106,2:10,"0,6",64,Rivomark S.A.,EE-CAE-000008
+KROSER,RC - 40 L,Calentador cerrado VERTICAL COBRE de 40 Litros,230,1200,B,40,86,1:41,"0,6","62,3",Rivomark S.A.,EE-CAE-000008
+ZERO WATT,RC - 40 L,Calentador cerrado VERTICAL COBRE de 40 Litros,230,1200,B,40,86,1:41,"0,6","62,3",Rivomark S.A.,EE-CAE-000008
+BRONX,RC - 40 L,Calentador cerrado VERTICAL COBRE de 40 Litros,230,1200,B,40,86,1:41,"0,6","62,3",Rivomark S.A.,EE-CAE-000008
+STEIGLEDER,RC - 40 L,Calentador cerrado VERTICAL COBRE de 40 Litros,230,1200,B,40,86,1:41,"0,6","62,3",Rivomark S.A.,EE-CAE-000008
+ROTEL,RC - 40 L,Calentador cerrado VERTICAL COBRE de 40 Litros,230,1200,B,40,86,1:41,"0,6","62,3",Rivomark S.A.,EE-CAE-000008
+JOYA,RC - 40 L,Calentador cerrado VERTICAL COBRE de 40 Litros,230,1200,B,40,86,1:41,"0,6","62,3",Rivomark S.A.,EE-CAE-000008
+BEUSA,RC - 40 L,Calentador cerrado VERTICAL COBRE de 40 Litros,230,1200,B,40,86,1:41,"0,6","62,3",Rivomark S.A.,EE-CAE-000008
+TEM,RC - 40 L,Calentador cerrado VERTICAL COBRE de 40 Litros,230,1200,B,40,86,1:41,"0,6","62,3",Rivomark S.A.,EE-CAE-000008
+QUEEN,RC - 40 L,Calentador cerrado VERTICAL COBRE de 40 Litros,230,1200,B,40,86,1:41,"0,6","62,3",Rivomark S.A.,EE-CAE-000008
+SIRIUM,RC - 40 L,Calentador cerrado VERTICAL COBRE de 40 Litros,230,1200,B,40,86,1:41,"0,6","62,3",Rivomark S.A.,EE-CAE-000008
+KROSER,RC – 30 L,Calentador cerrado VERTICAL COBRE de 30 Litros,230,1200,B,30,65,1:09,"0,6",63,Rivomark S.A.,EE-CAE-000008
+ZERO WATT,RC – 30 L,Calentador cerrado VERTICAL COBRE de 30 Litros,230,1200,B,30,65,1:09,"0,6",63,Rivomark S.A.,EE-CAE-000008
+BRONX,RC – 30 L,Calentador cerrado VERTICAL COBRE de 30 Litros,230,1200,B,30,65,1:09,"0,6",63,Rivomark S.A.,EE-CAE-000008
+STEIGLEDER,RC – 30 L,Calentador cerrado VERTICAL COBRE de 30 Litros,230,1200,B,30,65,1:09,"0,6",63,Rivomark S.A.,EE-CAE-000008
+ROTEL,RC – 30 L,Calentador cerrado VERTICAL COBRE de 30 Litros,230,1200,B,30,65,1:09,"0,6",63,Rivomark S.A.,EE-CAE-000008
+JOYA,RC – 30 L,Calentador cerrado VERTICAL COBRE de 30 Litros,230,1200,B,30,65,1:09,"0,6",63,Rivomark S.A.,EE-CAE-000008
+BEUSA,RC – 30 L,Calentador cerrado VERTICAL COBRE de 30 Litros,230,1200,B,30,65,1:09,"0,6",63,Rivomark S.A.,EE-CAE-000008
+TEM,RC – 30 L,Calentador cerrado VERTICAL COBRE de 30 Litros,230,1200,B,30,65,1:09,"0,6",63,Rivomark S.A.,EE-CAE-000008
+QUEEN,RC – 30 L,Calentador cerrado VERTICAL COBRE de 30 Litros,230,1200,B,30,65,1:09,"0,6",63,Rivomark S.A.,EE-CAE-000008
+SIRIUM,RC – 30 L,Calentador cerrado VERTICAL COBRE de 30 Litros,230,1200,B,30,65,1:09,"0,6",63,Rivomark S.A.,EE-CAE-000008
+KROSER,RC - 20 L,Calentador cerrado VERTICAL COBRE de 20 Litros,230,1200,C,20,50,0:41,"0,6","50,7",Rivomark S.A.,EE-CAE-000008
+ZERO WATT,RC - 20 L,Calentador cerrado VERTICAL COBRE de 20 Litros,230,1200,C,20,50,0:41,"0,6","50,7",Rivomark S.A.,EE-CAE-000008
+BRONX,RC - 20 L,Calentador cerrado VERTICAL COBRE de 20 Litros,230,1200,C,20,50,0:41,"0,6","50,7",Rivomark S.A.,EE-CAE-000008
+STEIGLEDER,RC - 20 L,Calentador cerrado VERTICAL COBRE de 20 Litros,230,1200,C,20,50,0:41,"0,6","50,7",Rivomark S.A.,EE-CAE-000008
+ROTEL,RC - 20 L,Calentador cerrado VERTICAL COBRE de 20 Litros,230,1200,C,20,50,0:41,"0,6","50,7",Rivomark S.A.,EE-CAE-000008
+JOYA,RC - 20 L,Calentador cerrado VERTICAL COBRE de 20 Litros,230,1200,C,20,50,0:41,"0,6","50,7",Rivomark S.A.,EE-CAE-000008
+BEUSA,RC - 20 L,Calentador cerrado VERTICAL COBRE de 20 Litros,230,1200,C,20,50,0:41,"0,6","50,7",Rivomark S.A.,EE-CAE-000008
+TEM,RC - 20 L,Calentador cerrado VERTICAL COBRE de 20 Litros,230,1200,C,20,50,0:41,"0,6","50,7",Rivomark S.A.,EE-CAE-000008
+QUEEN,RC - 20 L,Calentador cerrado VERTICAL COBRE de 20 Litros,230,1200,C,20,50,0:41,"0,6","50,7",Rivomark S.A.,EE-CAE-000008
+SIRIUM,RC - 20 L,Calentador cerrado VERTICAL COBRE de 20 Litros,230,1200,C,20,50,0:41,"0,6","50,7",Rivomark S.A.,EE-CAE-000008
+PROPIA,WB5 60,Calentador de agua de acumulacion,230,1400,A,60,111,1:44,"0,6",51,Warners,EE-CAE-000006
+PROPIA,WB5 80,Calentador de agua de acumulacion,230,1400,A,80,150,2:39,"0,6",55,Warners,EE-CAE-000006
+PROPIA,WB5 50,Calentador de agua de acumulacion,230,1400,A,50,95,1:33,"0,6",58,Warners,EE-CAE-000006
+PROPIA,WB5 40,Calentador de agua de acumulacion,230,1400,A,40,76,1:08,"0,6",51,Warners,EE-CAE-000006
+PROPIA,WB5 30,Calentador de agua de acumulacion,230,1200,B,30,64,1:03,"0,6",51,Warners,EE-CAE-000006
+TEM,WB5 60,Calentador de agua de acumulacion,230,1400,A,60,111,1:44,"0,6",51,Warners,EE-CAE-000006
+TEM,WB5 80,Calentador de agua de acumulacion,230,1400,A,80,150,2:39,"0,6",55,Warners,EE-CAE-000006
+TEM,WB5 50,Calentador de agua de acumulacion,230,1400,A,50,95,1:33,"0,6",58,Warners,EE-CAE-000006
+TEM,WB5 40,Calentador de agua de acumulacion,230,1400,A,40,76,1:08,"0,6",51,Warners,EE-CAE-000006
+TEM,WB5 30,Calentador de agua de acumulacion,230,1200,B,30,64,1:03,"0,6",51,Warners,EE-CAE-000006
+NATIONAL WHITE,WB5 60,Calentador de agua de acumulacion,230,1400,A,60,111,1:44,"0,6",51,Warners,EE-CAE-000006
+NATIONAL WHITE,WB5 80,Calentador de agua de acumulacion,230,1400,A,80,150,2:39,"0,6",55,Warners,EE-CAE-000006
+NATIONAL WHITE,WB5 50,Calentador de agua de acumulacion,230,1400,A,50,95,1:33,"0,6",58,Warners,EE-CAE-000006
+NATIONAL WHITE,WB5 40,Calentador de agua de acumulacion,230,1400,A,40,76,1:08,"0,6",51,Warners,EE-CAE-000006
+NATIONAL WHITE,WB5 30,Calentador de agua de acumulacion,230,1200,B,30,64,1:03,"0,6",51,Warners,EE-CAE-000006
+ELDOM,WB5 60,Calentador de agua de acumulacion,230,1400,A,60,111,1:44,"0,6",51,Warners,EE-CAE-000006
+ELDOM,WB5 80,Calentador de agua de acumulacion,230,1400,A,80,150,2:39,"0,6",55,Warners,EE-CAE-000006
+ELDOM,WB5 50,Calentador de agua de acumulacion,230,1400,A,50,95,1:33,"0,6",58,Warners,EE-CAE-000006
+ELDOM,WB5 40,Calentador de agua de acumulacion,230,1400,A,40,76,1:08,"0,6",51,Warners,EE-CAE-000006
+ELDOM,WB5 30,Calentador de agua de acumulacion,230,1200,B,30,64,1:03,"0,6",51,Warners,EE-CAE-000006
+NIC´S,WB5 60,Calentador de agua de acumulacion,230,1400,A,60,111,1:44,"0,6",51,Warners,EE-CAE-000006
+NIC´S,WB5 80,Calentador de agua de acumulacion,230,1400,A,80,150,2:39,"0,6",55,Warners,EE-CAE-000006
+NIC´S,WB5 50,Calentador de agua de acumulacion,230,1400,A,50,95,1:33,"0,6",58,Warners,EE-CAE-000006
+NIC´S,WB5 40,Calentador de agua de acumulacion,230,1400,A,40,76,1:08,"0,6",51,Warners,EE-CAE-000006
+NIC´S,WB5 30,Calentador de agua de acumulacion,230,1200,B,30,64,1:03,"0,6",51,Warners,EE-CAE-000006
+DIKLER,WB5 60,Calentador de agua de acumulacion,230,1400,A,60,111,1:44,"0,6",51,Warners,EE-CAE-000006
+DIKLER,WB5 80,Calentador de agua de acumulacion,230,1400,A,80,150,2:39,"0,6",55,Warners,EE-CAE-000006
+DIKLER,WB5 50,Calentador de agua de acumulacion,230,1400,A,50,95,1:33,"0,6",58,Warners,EE-CAE-000006
+DIKLER,WB5 40,Calentador de agua de acumulacion,230,1400,A,40,76,1:08,"0,6",51,Warners,EE-CAE-000006
+DIKLER,WB5 30,Calentador de agua de acumulacion,230,1200,B,30,64,1:03,"0,6",51,Warners,EE-CAE-000006
+WARNER'S,WB5 60,Calentador de agua de acumulacion,230,1400,A,60,111,1:44,"0,6",51,Warners,EE-CAE-000006
+WARNER'S,WB5 80,Calentador de agua de acumulacion,230,1400,A,80,150,2:39,"0,6",55,Warners,EE-CAE-000006
+WARNER'S,WB5 50,Calentador de agua de acumulacion,230,1400,A,50,95,1:33,"0,6",58,Warners,EE-CAE-000006
+WARNER'S,WB5 40,Calentador de agua de acumulacion,230,1400,A,40,76,1:08,"0,6",51,Warners,EE-CAE-000006
+WARNER'S,WB5 30,Calentador de agua de acumulacion,230,1200,B,30,64,1:03,"0,6",51,Warners,EE-CAE-000006
+ARISTON,PRO ECO 100 V,Calentador de agua de acumulación,230,1800,A,95,182,2:43,"0,8",57,Ridel S.A.,EE-CAE-000005
+ARISTON,PRO ECO 80V,Calentador de agua de acumulación,230,1800,A,75,147,2:09,"0,8",55,Ridel S.A.,EE-CAE-000005
+ARISTON,TI-SHAPE 15 ORD,Calentador de agua de acumulación,220/240,2000,D,15,"38,8",0:21,"0,8",57,Ridel S.A.,EE-CAE-000005
+Hyundai,HYCE140,Calentador electrico de acumulacion,220,1500,A,140,240,4:40,-,-,Barraca Europa S.A.,EE-CAE-000002
+Hyundai,HYCE100,Calentador electrico de acumulacion,220,1500,B,100,208,3:10,-,-,Barraca Europa S.A.,EE-CAE-000002
+Hyundai,HYCE80,Calentador electrico de acumulacion,220,1500,B,80,160,2:33,-,-,Barraca Europa S.A.,EE-CAE-000002
+Hyundai,HYCE50,Calentador electrico de acumulacion,220,1500,D,50,138,1:33,-,-,Barraca Europa S.A.,EE-CAE-000002
+Hyundai,HYCE30,Calentador electrico de acumulacion,220,1500,C,30,74,0:45,-,-,Barraca Europa S.A.,EE-CAE-000002
+Beusa,BECE100,Calentador electrico de acumulacion,220,1500,B,100,208,3:10,-,-,Barraca Europa S.A.,EE-CAE-000002
+Beusa,BECE80,Calentador electrico de acumulacion,220,1500,B,80,160,2:33,-,-,Barraca Europa S.A.,EE-CAE-000002
+Beusa,BECE50,Calentador electrico de acumulacion,220,1500,D,50,138,1:33,-,-,Barraca Europa S.A.,EE-CAE-000002
+Beusa,BECE30,Calentador electrico de acumulacion,220,1500,C,30,74,0:45,-,-,Barraca Europa S.A.,EE-CAE-000002
+JAMES,P 30 AC,Calentador de agua de acumulacion,230,1500,A,30,56,0:49,-,52,JAMES S.A.,EE-CAE-000001
+JAMES,P 110 A,Calentador de agua de acumulacion,230,1500,A,110,213,3:33,-,-,JAMES S.A.,EE-CAE-000001
+JAMES,P 80 A,Calentador de agua de acumulacion,230,1500,A,80,154,2:27,-,53,JAMES S.A.,EE-CAE-000001
+JAMES,P 60 A,Calentador de agua de acumulacion,230,1500,A,60,114,1:51,-,-,JAMES S.A.,EE-CAE-000001
+JAMES,P 40 A,Calentador de agua de acumulacion,230,1500,A,40,"76,5",1:09,-,50,JAMES S.A.,EE-CAE-000001
+JAMES,P 30 A,Calentador de agua de acumulacion,230,1500,A,30,57,0:41,-,-,JAMES S.A.,EE-CAE-000001
