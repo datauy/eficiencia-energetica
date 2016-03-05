@@ -5,7 +5,7 @@ namespace :seed_data do
   task urusec_from_csv: :environment do
     import_csv('ursea-calentadores-agua.csv') do |row|
       p = Product.new(
-        brand: row[0],
+        brand: row[0].split(' ').map{ |a| a.capitalize }.join(' '),
         model: row[1],
         description: row[2],
         kwatts_hour: row[7],
