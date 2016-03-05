@@ -8,4 +8,12 @@ class Product < ActiveRecord::Base
   def yearly_cost(number_of_years)
     monthly_cost * number_of_years
   end
+
+  def calculated_yearly_cost=(number_of_years)
+    @calculated_yearly_cost = yearly_cost(number_of_years)
+  end
+
+  def calculated_yearly_cost
+    @calculated_yearly_cost || yearly_cost(2)
+  end
 end

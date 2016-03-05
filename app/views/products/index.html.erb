@@ -19,6 +19,7 @@
       <th>Clase</th>
       <th>Capacidad (l)</th>
       <th>Descripción</th>
+      <th><%= @number_of_years %> years</th>
     </tr>
   </thead>
   <tbody>
@@ -32,8 +33,8 @@
         </td>
         <td><%= product.litres %></td>
         <td><%= product.description %></td>
+        <td><%= product.calculated_yearly_cost %></td>
       </tr>
     <% end %>
   </tbody>
 </table>
-
