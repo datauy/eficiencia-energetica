@@ -33,7 +33,7 @@
         </td>
         <td><%= product.litres %></td>
         <td><%= product.description %></td>
-        <td><%= product.calculated_yearly_cost %></td>
+        <td><%= number_to_currency(product.calculated_yearly_cost, precision: 3) %></td>
       </tr>
     <% end %>
   </tbody>

@@ -15,10 +15,12 @@ class ProductsController < ApplicationController
     query.where(brand: permitted_params[:brand]) unless permitted_params[:brand].present?
     query.where(model: permitted_params[:model]) unless permitted_params[:model].present?
 
-    @number_of_years = permitted_params[:number_of_years]
+    @number_of_years = permitted_params[:number_of_years].to_i || 2
     @products = query.all.map do |product|
       product.calculated_yearly_cost =
         product.yearly_cost(@number_of_years)
+
+      product
     end
 
     render :index
