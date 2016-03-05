@@ -1,3 +1,15 @@
+<form action="/products">
+  <select name="litres">
+    <%= options_for_select({
+      '0 - 50' => '0,50',
+      '50 - 100' => '50,100',
+      '100 - 200' => '100,200',
+      '200 - 300' => '200,300'
+    }, params[:litres]) %>
+  </select>
+  <button type="submit">Filtrar</button>
+</form>
+
 <table>
   <thead>
     <tr>
