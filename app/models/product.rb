@@ -4,4 +4,8 @@ class Product < ActiveRecord::Base
   def monthly_cost
     kwatts_hour * KWATT_HOUR_COST
   end
+
+  def yearly_cost(number_of_years)
+    monthly_cost * number_of_years
+  end
 end
